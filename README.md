@@ -2,32 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>knowledge landscape stability kit</title>
-<style>
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    line-height: 1.55;
-    max-width: 820px;
-    margin: 40px auto;
-    padding: 0 18px;
-    color: #222;
-  }
-  code {
-    background: #f3f3f3;
-    padding: 3px 5px;
-    border-radius: 4px;
-    font-size: 14px;
-  }
-  pre {
-    background: #f3f3f3;
-    padding: 12px;
-    border-radius: 6px;
-    overflow-x: auto;
-  }
-  h1, h2 {
-    font-weight: 600;
-  }
-</style>
+
 </head>
 <body>
 
