@@ -9,6 +9,11 @@
 <h1>knowledge landscape stability kit</h1>
 
 <p>
+60 SECOND DEMO: 
+pip install -r requirements.txt
+python knowledge_landscape_scan.py --docs ./sample_docs --out ./scan_out
+open ./scan_out/stability_scan.html
+
 this toolkit helps identify where internal documentation causes genai assistants to give inconsistent answers. it measures how stable a model's response is when the same question is phrased in slightly different ways.
 </p>
 
