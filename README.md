@@ -103,7 +103,7 @@ stability_scan.html    # visual report with colored indicators
 <hr>
 
 <h2>license</h2>
-<p>mit</p>
+<p>MIT</p>
 
 </body>
 </html>
