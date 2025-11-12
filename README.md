@@ -9,7 +9,7 @@
 <h1>knowledge landscape stability kit</h1>
 
 <p>
-compression-aware intelligence (CAI) states that hallucination is a representational conflict problem. Compression strain measures it. CAI is the framework for evaluating it. this toolkit highlights where internal documentation causes generative AI systems to give inconsistent answers. it works by checking how stable the model’s response is when the same question is phrased in slightly different ways. when two prompts with the same meaning produce different outputs, the model’s latent representations are in conflict and Compression-Aware Intelligence (CAI) measures that conflict as compression strain.
+Compression-Aware Intelligence is the framework that treats hallucinations and contradictions not as errors to eliminate, but as measurable signals of representation strain inside any cognitive system, and uses those signals to guide stability, coherence, and self-correction. CAI states that hallucination is a representational conflict problem. Compression strain measures it. CAI is the framework for evaluating it. this toolkit highlights where internal documentation causes generative AI systems to give inconsistent answers. it works by checking how stable the model’s response is when the same question is phrased in slightly different ways. when two prompts with the same meaning produce different outputs, the model’s latent representations are in conflict and Compression-Aware Intelligence (CAI) measures that conflict as compression strain.
 </p>
 
 <p>
